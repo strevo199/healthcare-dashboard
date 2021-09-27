@@ -1,0 +1,13 @@
+.app{
+  height: 100vh;
+  width: 100vw;
+}
+
+.sideNar{
+  height: 100vh;
+  width: 12rem;
+  max-width: 40%;
+}
+.body{
+  /* color: #063c8df5; */
+}
